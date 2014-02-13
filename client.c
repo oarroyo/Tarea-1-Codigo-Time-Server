@@ -1,7 +1,6 @@
 /**
-  Oswaldo Daniel Arroyo Vasquez
-  rt689444
-  Programación de sockets
+  Alumno: Oswaldo Daniel Arroyo Vasquez rt689444
+  Programación de sockets 12/02/2014
 **/
 
 #include <sys/types.h>
