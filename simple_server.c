@@ -1,5 +1,6 @@
  /**
-  *
+  Autor: Oswaldo Daniel Arroyo Vasquez rt689444
+  Programación de Sockets 12/02/2014
 **/
 
 #include <sys/types.h>
