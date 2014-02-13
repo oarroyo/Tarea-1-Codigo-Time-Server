@@ -1,5 +1,7 @@
 /**
-  *
+  Oswaldo Daniel Arroyo Vasquez
+  rt689444
+  Programación de sockets
 **/
 
 #include <sys/types.h>
